@@ -22,7 +22,7 @@ let isLoggedIn = false
 console.log(typeof name);   //string
 console.log(typeof null);  //object
 console.log(typeof age);   // number
-console.log(typeof undefined); //undefined (it is type)
+console.log(typeof undefined); //undefined (it is type )
 
 
 
